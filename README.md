@@ -1,7 +1,7 @@
 "# Assignment-2" 
 // Description for my application: The purpose of my application "FlashcardApp" is to provide the user with an interface that consists of three screens allowing the user to study the historical facts about South Africa. The first screen displays a welcome message, has a start button allowing the user to start the quiz. The second screen has three button: true, false and next. It also contains a TextView displaying the five questions needed to be answered. The third screen contains a TextView displaying the score and reviewieng the questions answered. It contains a review button as well as a stop button to shut down the application after use. 
 
-// Youtube link: 
+// Youtube link: https://youtu.be/HU9QJfkrcDc
 
 //Image of the code and emulator
 ![Screenshot (1)](https://github.com/user-attachments/assets/0fe01ed1-5e35-40c7-be61-de497802aa98)
